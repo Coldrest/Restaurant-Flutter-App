@@ -1,0 +1,56 @@
+name: food_order_ui
+description: A new Flutter project.
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^5.4.0
+  font_awesome_flutter:
+  line_awesome_flutter: ^2.0.0
+  uuid: ^4.2.2
+
+  badges: ^3.1.2
+  flutter_spinkit: ^5.2.0
+  animate_do: ^3.1.2
+  sa4_migration_kit: ^1.0.0
+  curved_navigation_bar: ^1.0.3
+  flutter_screenutil: ^5.9.0
+  animated_theme_switcher: ^2.0.9
+  simple_animations: ^5.0.2
+  image_picker: ^0.8.3
+
+
+
+  url_launcher: ^6.2.1
+  get: ^4.6.5
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
+  firebase_auth: ^4.15.3
+  fluttertoast: ^8.2.4
+  firebase_storage: ^11.5.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - asset/images/
+
+
+ 

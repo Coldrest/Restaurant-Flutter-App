@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559209658970",
+    "project_id": "odev-3ff9f",
+    "storage_bucket": "odev-3ff9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559209658970:android:65abdbd963d199055c3663",
+        "android_client_info": {
+          "package_name": "com.example.git"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2XGq6SGWGhJ6WSE1cuenSDrYrPyZozZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
